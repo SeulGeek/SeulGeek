@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 🔭 Android Application Engineer
+
+## 🌱 Interest
+- Android (Java, Kotlin)
+- iOS
+- Blockchain
+
+## :sparkles: My personal goal in 2021
+- Enjoy learning!

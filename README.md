@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 - iOS
 - Blockchain
 
-## :sparkles: My personal goal in 2021
-- Enjoy learning!
+## :sparkles: 2022
+- A little progress each day adds up to big results.

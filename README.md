@@ -15,12 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🔭 Android Application Engineer
+## 🔭 Android + Flutter Application Engineer
 
 ## 🌱 Interest
 - Android (Java, Kotlin)
+- Flutter
 - iOS
 - Blockchain
 
-## :sparkles: 2022
-- A little progress each day adds up to big results.
+## :sparkles: 2023
+- Enjoy my side projects
